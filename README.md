@@ -47,7 +47,7 @@ To build a robust stock forecasting model that:
 
 | Metric         | Value     |
 |----------------|-----------|
-| R² Score       | ~0.85+    |
+| R² Score       | ~0.98    |
 | Dataset Used   | NVDA (2015–2024) |
 | Data Source    | Yahoo Finance |
 
@@ -102,9 +102,8 @@ To build a robust stock forecasting model that:
 
 ## 📬 Contact
 
-Made by [Your Name]  
-📧 Email: yourname@example.com  
-🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
+Made by [Ashwina Yadav]  
+🔗 GitHub: [github.com/ashwinayadav6281](https://github.com/ashwinayadav6281)
 
 ---
 
